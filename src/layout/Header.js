@@ -67,21 +67,21 @@ const Header = () => {
           />
           <Button
             children="Learn"
-            url="/learn"
+            url="/ml5-website-v02-gatsby/learn"
             txtColor="var(--color-text-dark)"
             bgColor="var(--color-transparent)"
             fontSize="0.9rem"
           />
           <Button
             children="Community"
-            url="/community/"
+            url="/ml5-website-v02-gatsby/community/"
             txtColor="var(--color-text-dark)"
             bgColor="var(--color-transparent)"
             fontSize="0.9rem"
           />
           <Button
             children="About"
-            url="/about/"
+            url="/ml5-website-v02-gatsby/about/"
             txtColor="var(--color-text-dark)"
             bgColor="var(--color-transparent)"
             fontSize="0.9rem"
