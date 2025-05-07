@@ -53,14 +53,14 @@ const Header = () => {
         <div className={menu}>
           <Button
             children="Getting Started"
-            url="http://localhost:3000/"
+            url="https://miukanematsu.github.io/ml5-website-v02-docsify/#/"
             txtColor="var(--color-text-dark)"
             bgColor="var(--color-transparent)"
             fontSize="0.9rem"
           />
           <Button
             children="Reference"
-            url="http://localhost:3000/#/reference/overview"
+            url="https://miukanematsu.github.io/ml5-website-v02-docsify/#/reference/overview"
             txtColor="var(--color-text-dark)"
             bgColor="var(--color-transparent)"
             fontSize="0.9rem"
