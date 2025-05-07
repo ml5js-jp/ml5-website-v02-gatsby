@@ -53,14 +53,14 @@ const Header = () => {
         <div className={menu}>
           <Button
             children="Getting Started"
-            url="https://docs.ml5js.org/#/"
+            url="http://localhost:3000/"
             txtColor="var(--color-text-dark)"
             bgColor="var(--color-transparent)"
             fontSize="0.9rem"
           />
           <Button
             children="Reference"
-            url="https://docs.ml5js.org/#/reference/overview"
+            url="http://localhost:3000/#/reference/overview"
             txtColor="var(--color-text-dark)"
             bgColor="var(--color-transparent)"
             fontSize="0.9rem"
