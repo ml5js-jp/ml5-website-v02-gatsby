@@ -43,7 +43,7 @@ const Header = () => {
         <div className={logo}>
           <Button
             children="ml5.js"
-            url="/#"
+            url="/ml5-website-v02-gatsby/#"
             fontSize="1.5rem"
             txtColor="var(--color-primary)"
             bgColor="var(--color-transparent)"
