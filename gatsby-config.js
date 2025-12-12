@@ -4,7 +4,7 @@
 module.exports = {
 	siteMetadata: {
 		title: `ml5.js`,
-		siteUrl: `https://miukanematsu.github.io/ml5-website-v02-gatsby`,
+		siteUrl: `https://ml5js-jp.github.io/ml5-website-v02-gatsby`,
 	},
 	plugins: [
 		'gatsby-plugin-image',
