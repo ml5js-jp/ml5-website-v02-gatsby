@@ -32,7 +32,7 @@ const Hero = ({ title, subtitle }) => {
       />
       <Button
         children="Get Started"
-        url="https://miukanematsu.github.io/ml5-website-v02-docsify/#/"
+        url="https://ml5js-jp.github.io/ml5-website-v02-docsify/#/"
         fontSize="1.1rem"
         borderStyle="solid"
         padding="0.5rem 1.0rem"
